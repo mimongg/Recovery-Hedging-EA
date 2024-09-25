@@ -1,6 +1,3 @@
-
-Here's a professional and engaging README note for your MetaTrader 5 trading script:
-
 Automated Trading Strategy for MetaTrader 5
 This Python script automates trading on MetaTrader 5 using technical analysis on the XAUUSD (Gold) symbol. The strategy leverages real-time price data, monitors market conditions within a specified time range, and dynamically opens and closes trades based on predefined profit/loss conditions.
 
